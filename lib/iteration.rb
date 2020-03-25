@@ -45,3 +45,4 @@ while counter < src.count do
   counter += 1
 end
 total
+end
